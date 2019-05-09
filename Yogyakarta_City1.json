@@ -1,0 +1,1104 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5cd4603ef594df21be932764"
+  },
+  "response": {
+    "venues": [
+      {
+        "id": "5839311f6e60752e1d6c797a",
+        "name": "Soto Jamur \"SoJam\"",
+        "location": {
+          "address": "Rusunawa Juminahan jl. Juminahan no. 1",
+          "crossStreet": "jl. Jagalan",
+          "lat": -7.796567,
+          "lng": 110.37043,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.796567,
+              "lng": 110.37043
+            }
+          ],
+          "distance": 56,
+          "postalCode": "55166",
+          "cc": "ID",
+          "city": "Pakualaman",
+          "state": "Special Region of Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Rusunawa Juminahan jl. Juminahan no. 1 (jl. Jagalan)",
+            "Pakualaman",
+            "Special Region of Yogyakarta 55166",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1d3941735",
+            "name": "Vegetarian / Vegan Restaurant",
+            "pluralName": "Vegetarian / Vegan Restaurants",
+            "shortName": "Vegetarian / Vegan",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4de1f0ced164df8574efef9e",
+        "name": "JEMBATAN JUMINAHAN",
+        "location": {
+          "lat": -7.79674064068168,
+          "lng": 110.37006947851272,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.79674064068168,
+              "lng": 110.37006947851272
+            }
+          ],
+          "distance": 62,
+          "postalCode": "55213",
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Yogyakarta",
+            "DI Yogyakarta 55213",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1df941735",
+            "name": "Bridge",
+            "pluralName": "Bridges",
+            "shortName": "Bridge",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/bridge_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4c897eabe51e6dcbccf660de",
+        "name": "Mie Ongklok Wonosobo",
+        "location": {
+          "address": "Jl. Jagalan 24",
+          "lat": -7.797315650886211,
+          "lng": 110.37095385525267,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797315650886211,
+              "lng": 110.37095385525267
+            }
+          ],
+          "distance": 54,
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jl. Jagalan 24",
+            "Yogyakarta",
+            "DI Yogyakarta",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1d1941735",
+            "name": "Noodle House",
+            "pluralName": "Noodle Houses",
+            "shortName": "Noodles",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/ramen_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4bc67fe251b376b04ac11b6f",
+        "name": "Melia Purosani Hotel",
+        "location": {
+          "address": "Jl. Suryotomo No. 31",
+          "lat": -7.796981961542715,
+          "lng": 110.36893651471479,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.796981961542715,
+              "lng": 110.36893651471479
+            }
+          ],
+          "distance": 175,
+          "postalCode": "55122",
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jl. Suryotomo No. 31",
+            "Yogyakarta",
+            "DI Yogyakarta 55122",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4cd55f0b67c7236aca521277",
+        "name": "Jembatan Kali Code",
+        "location": {
+          "lat": -7.794563593742973,
+          "lng": 110.3693829234956,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.794563593742973,
+              "lng": 110.3693829234956
+            }
+          ],
+          "distance": 306,
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Yogyakarta",
+            "DI Yogyakarta",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d15c941735",
+            "name": "Cemetery",
+            "pluralName": "Cemeteries",
+            "shortName": "Cemetery",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/cemetery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4e853d1a9a52340cbc9b943b",
+        "name": "Jambuluwuk Malioboro Boutique Hotel",
+        "location": {
+          "address": "Jalan Gajah Mada No. 67",
+          "lat": -7.797584066592449,
+          "lng": 110.37252614905832,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797584066592449,
+              "lng": 110.37252614905832
+            }
+          ],
+          "distance": 227,
+          "postalCode": "55112",
+          "cc": "ID",
+          "neighborhood": "Malioboro",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jalan Gajah Mada No. 67",
+            "Yogyakarta",
+            "DI Yogyakarta 55112",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "5bf526bbc47cf9002c3c577c",
+        "name": "Front One Cabin Malioboro",
+        "location": {
+          "address": "Jalan Jagalan No. 61 Yogyakarta 55112",
+          "crossStreet": "Jagalan No. 61",
+          "lat": -7.797017,
+          "lng": 110.370497,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797017,
+              "lng": 110.370497
+            }
+          ],
+          "distance": 6,
+          "postalCode": "55112",
+          "cc": "ID",
+          "city": "Pakualaman",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jalan Jagalan No. 61 Yogyakarta 55112 (Jagalan No. 61)",
+            "Pakualaman",
+            "DI Yogyakarta 55112",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4c3053836f1fef3bc5baeb3d",
+        "name": "Salon Mamiek",
+        "location": {
+          "address": "Jln. Juminahan 24",
+          "lat": -7.797403,
+          "lng": 110.371084,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797403,
+              "lng": 110.371084
+            }
+          ],
+          "distance": 71,
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jln. Juminahan 24",
+            "Yogyakarta",
+            "DI Yogyakarta",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d110951735",
+            "name": "Salon / Barbershop",
+            "pluralName": "Salons / Barbershops",
+            "shortName": "Salon / Barbershop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/salon_barber_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "582c0e657ff1e437acb8e315",
+        "name": "Hotel Pesona",
+        "location": {
+          "address": "Jl. Gadean No.3",
+          "lat": -7.798056036818937,
+          "lng": 110.36334949259705,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.798056036818937,
+              "lng": 110.36334949259705
+            }
+          ],
+          "distance": 799,
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jl. Gadean No.3",
+            "Yogyakarta",
+            "DI Yogyakarta",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4c67950af7a80f4728aca17a",
+        "name": "Progo",
+        "location": {
+          "address": "Jalan Mayor Suryotomo No. 29",
+          "crossStreet": "Yogyakarta",
+          "lat": -7.798554121940397,
+          "lng": 110.36895237231634,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.798554121940397,
+              "lng": 110.36895237231634
+            }
+          ],
+          "distance": 240,
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jalan Mayor Suryotomo No. 29 (Yogyakarta)",
+            "Yogyakarta",
+            "DI Yogyakarta",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1f6941735",
+            "name": "Department Store",
+            "pluralName": "Department Stores",
+            "shortName": "Department Store",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/departmentstore_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4d5dfef25b276dcb3e4ef4c5",
+        "name": "Masjid Al Mujahidin",
+        "location": {
+          "address": "Jl. TegalPanggung",
+          "lat": -7.796065530890392,
+          "lng": 110.37076185233265,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.796065530890392,
+              "lng": 110.37076185233265
+            }
+          ],
+          "distance": 114,
+          "postalCode": "55212",
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jl. TegalPanggung",
+            "Yogyakarta",
+            "DI Yogyakarta 55212",
+            "Indonesia"
+          ]
+        },
+        "categories": [],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "54b74037498e9197e0e76052",
+        "name": "Hotel Santika Yogyakarta",
+        "location": {
+          "address": "Jogja",
+          "lat": -7.797591499999999,
+          "lng": 110.3707141,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797591499999999,
+              "lng": 110.3707141
+            }
+          ],
+          "distance": 61,
+          "cc": "ID",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jogja",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "52e81612bcbc57f1066b7a35",
+            "name": "Club House",
+            "pluralName": "Club Houses",
+            "shortName": "Club",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "53fed81d498e03cb34c37c96",
+        "name": "GoodWill Haircut",
+        "location": {
+          "lat": -7.797068,
+          "lng": 110.370529,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797068,
+              "lng": 110.370529
+            }
+          ],
+          "distance": 0,
+          "cc": "ID",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Indonesia"
+          ]
+        },
+        "categories": [],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "53fdf42b498ec403f8156643",
+        "name": "Neo Computer",
+        "location": {
+          "lat": -7.797068,
+          "lng": 110.370529,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797068,
+              "lng": 110.370529
+            }
+          ],
+          "distance": 0,
+          "cc": "ID",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Indonesia"
+          ]
+        },
+        "categories": [],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "53aa1ee5498e580a196a8c37",
+        "name": "Athfal Room",
+        "location": {
+          "lat": -7.797068,
+          "lng": 110.3705268,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797068,
+              "lng": 110.3705268
+            }
+          ],
+          "distance": 0,
+          "cc": "ID",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Indonesia"
+          ]
+        },
+        "categories": [],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "5489b18f498ecccac938e2af",
+        "name": "B103NS",
+        "location": {
+          "lat": -7.797068,
+          "lng": 110.370529,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797068,
+              "lng": 110.370529
+            }
+          ],
+          "distance": 0,
+          "cc": "ID",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Indonesia"
+          ]
+        },
+        "categories": [],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "54886c62498ec20cb7c12ab9",
+        "name": "Familia Garage Autowork",
+        "location": {
+          "lat": -7.797068,
+          "lng": 110.370529,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797068,
+              "lng": 110.370529
+            }
+          ],
+          "distance": 0,
+          "cc": "ID",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Indonesia"
+          ]
+        },
+        "categories": [],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "52ca544011d2d3725a94de06",
+        "name": "Es Kelapa Muda Bu Samut",
+        "location": {
+          "lat": -7.796724483560773,
+          "lng": 110.37162295666313,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.796724483560773,
+              "lng": 110.37162295666313
+            }
+          ],
+          "distance": 126,
+          "cc": "ID",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1d0941735",
+            "name": "Dessert Shop",
+            "pluralName": "Dessert Shops",
+            "shortName": "Desserts",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "55120a73498eb0e9d494ab96",
+        "name": "Yogyakarta City",
+        "location": {
+          "lat": -7.797863000725584,
+          "lng": 110.3708607629226,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797863000725584,
+              "lng": 110.3708607629226
+            }
+          ],
+          "distance": 95,
+          "cc": "ID",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Indonesia"
+          ]
+        },
+        "categories": [],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "55dd7783498e0fb87ff9abb7",
+        "name": "JOG48 Salon & Spa",
+        "location": {
+          "address": "Jl. Cinta No. 48",
+          "lat": -7.796059948185611,
+          "lng": 110.37023820821719,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.796059948185611,
+              "lng": 110.37023820821719
+            }
+          ],
+          "distance": 116,
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jl. Cinta No. 48",
+            "Yogyakarta",
+            "DI Yogyakarta",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d110951735",
+            "name": "Salon / Barbershop",
+            "pluralName": "Salons / Barbershops",
+            "shortName": "Salon / Barbershop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/salon_barber_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4c9074166fbf224bbad1538f",
+        "name": "Kalingga Hotel",
+        "location": {
+          "address": "Jl. Juminahan",
+          "lat": -7.797136,
+          "lng": 110.370922,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797136,
+              "lng": 110.370922
+            }
+          ],
+          "distance": 43,
+          "postalCode": "55112",
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jl. Juminahan",
+            "Yogyakarta",
+            "DI Yogyakarta 55112",
+            "Indonesia"
+          ]
+        },
+        "categories": [],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4f0264b30e01089c580cb751",
+        "name": "Ayam kosek",
+        "location": {
+          "address": "Jl. Raya Parakan",
+          "lat": -7.796367809285469,
+          "lng": 110.37102367450663,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.796367809285469,
+              "lng": 110.37102367450663
+            }
+          ],
+          "distance": 95,
+          "cc": "ID",
+          "city": "Temanggung",
+          "state": "Jawa Tengah",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jl. Raya Parakan",
+            "Temanggung",
+            "Jawa Tengah",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d120951735",
+            "name": "Food Court",
+            "pluralName": "Food Courts",
+            "shortName": "Food Court",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_foodcourt_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4c42a50f520fa593e09dcbac",
+        "name": "Evi wedding souvenir",
+        "location": {
+          "address": "Jl.jagalan",
+          "lat": -7.797412,
+          "lng": 110.370666,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797412,
+              "lng": 110.370666
+            }
+          ],
+          "distance": 41,
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jl.jagalan",
+            "Yogyakarta",
+            "DI Yogyakarta",
+            "Indonesia"
+          ]
+        },
+        "categories": [],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4dbbec13a86e0e98a1d595a5",
+        "name": "Toko Mas \" Bintang Tiga\"",
+        "location": {
+          "lat": -7.797405,
+          "lng": 110.370732,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797405,
+              "lng": 110.370732
+            }
+          ],
+          "distance": 43,
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Yogyakarta",
+            "DI Yogyakarta",
+            "Indonesia"
+          ]
+        },
+        "categories": [],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "518465dc498ea97c48798523",
+        "name": "Ruang Fisioterapi RSU Bethesda Lempuyangwangi Yogyakarta",
+        "location": {
+          "crossStreet": "Jl. Hayam Wuruk No. 6",
+          "lat": -7.7971137408833755,
+          "lng": 110.3702672995488,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.7971137408833755,
+              "lng": 110.3702672995488
+            }
+          ],
+          "distance": 29,
+          "postalCode": "55211",
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jl. Hayam Wuruk No. 6",
+            "Yogyakarta",
+            "DI Yogyakarta 55211",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d196941735",
+            "name": "Hospital",
+            "pluralName": "Hospitals",
+            "shortName": "Hospital",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4ece32c302d5feaa19bf7e34",
+        "name": "Panjahit USADA",
+        "location": {
+          "address": "Jalan Mataram nomor 2",
+          "lat": -7.796760031510145,
+          "lng": 110.36927996756212,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.796760031510145,
+              "lng": 110.36927996756212
+            }
+          ],
+          "distance": 141,
+          "postalCode": "55213",
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jalan Mataram nomor 2",
+            "Yogyakarta",
+            "DI Yogyakarta 55213",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ff941735",
+            "name": "Miscellaneous Shop",
+            "pluralName": "Miscellaneous Shops",
+            "shortName": "Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4f192c31e4b00ed3538d1502",
+        "name": "Bank Sinar Mas",
+        "location": {
+          "address": "Jl. Brig. Jend. Katamso",
+          "lat": -7.7971788888779505,
+          "lng": 110.37041275622123,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.7971788888779505,
+              "lng": 110.37041275622123
+            }
+          ],
+          "distance": 17,
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Jl. Brig. Jend. Katamso",
+            "Yogyakarta",
+            "DI Yogyakarta",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10a951735",
+            "name": "Bank",
+            "pluralName": "Banks",
+            "shortName": "Bank",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4f7e1169e4b026d7f2478b74",
+        "name": "Sate dan Babi Panggang Matahari jln Ketandan",
+        "location": {
+          "lat": -7.797944800271717,
+          "lng": 110.37143677187203,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.797944800271717,
+              "lng": 110.37143677187203
+            }
+          ],
+          "distance": 139,
+          "cc": "ID",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1df931735",
+            "name": "BBQ Joint",
+            "pluralName": "BBQ Joints",
+            "shortName": "BBQ",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "52120c1311d2c8329b3d7a1d",
+        "name": "Bajigur Pak Slamet,",
+        "location": {
+          "lat": -7.796868262747971,
+          "lng": 110.37176259528216,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.796868262747971,
+              "lng": 110.37176259528216
+            }
+          ],
+          "distance": 137,
+          "cc": "ID",
+          "city": "Juminahan",
+          "state": "Kota Yogya",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Juminahan",
+            "Kota Yogya",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      },
+      {
+        "id": "4bd117c4caff95213943d0f0",
+        "name": "Kelapa Muda Bu Samud",
+        "location": {
+          "address": "Juminahan",
+          "lat": -7.796547863278081,
+          "lng": 110.3706693649292,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": -7.796547863278081,
+              "lng": 110.3706693649292
+            }
+          ],
+          "distance": 59,
+          "cc": "ID",
+          "city": "Yogyakarta",
+          "state": "DI Yogyakarta",
+          "country": "Indonesia",
+          "formattedAddress": [
+            "Juminahan",
+            "Yogyakarta",
+            "DI Yogyakarta",
+            "Indonesia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1cb941735",
+            "name": "Food Truck",
+            "pluralName": "Food Trucks",
+            "shortName": "Food Truck",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/streetfood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1557422142",
+        "hasPerk": false
+      }
+    ],
+    "confident": false
+  }
+}
